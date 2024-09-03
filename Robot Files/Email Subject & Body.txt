@@ -1,0 +1,12 @@
+Subject:
+Official Sensitive - {status} TB110 V {version} for {killDate} {abattoir}
+
+Body:
+<p>Please find attached {status} TB110 V {version} for {killDate} - {abattoir}.</p>
+<p>Regards,</p>
+<p>{name}</p>
+<p>AO &ndash; TB Reactor Removal Team</p>
+<p><strong>Animal and Plant Health Agency</strong> <strong>(APHA)</strong></p>
+<p>Telephone: 02080 260 134 | Email: {email}</p>
+<p>Website: <a href="http://www.gov.uk/apha">www.gov.uk/apha</a> | Twitter: <a href="http://www.twitter.com/aphagovuk">@APHAgovuk</a> | Facebook: <a href="http://www.facebook.com/aphagov">aphagov</a></p>
+<p>Address: Isca Building, Manley House, Kestrel Way, Exeter, EX2 7LQ</p>

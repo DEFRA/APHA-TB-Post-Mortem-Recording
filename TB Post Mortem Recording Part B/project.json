@@ -1,0 +1,66 @@
+{
+  "name": "TB Post Mortem Recording Part B",
+  "description": "Robotic solution for automation of the TB Post Mortem Recording process. Part B covers the processing of completed TB110s returned by laboratories.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Logging": "[1.0.16]",
+    "Pop.Ups": "[1.0.3]",
+    "SAM.Reuseable.Components": "[1.0.24]",
+    "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Form.Activities": "[1.8.0]",
+    "UiPath.FormActivityLibrary": "[1.8.0]",
+    "UiPath.Mail.Activities": "[1.23.10]",
+    "UiPath.System.Activities": "[21.10.3]",
+    "UiPath.UIAutomation.Activities": "[20.4.2]",
+    "UiPath.WebAPI.Activities": "[1.18.0]",
+    "UiPathTeam.SharePoint.Activities": "[1.7.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.6.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalExceptionHandler.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "7d9e4c66-ae04-45bc-b46f-193d6ef3b0bb",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
